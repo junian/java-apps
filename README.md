@@ -1,8 +1,8 @@
-#JTR.MailClient
+# JTR Mail Client
 
 A simple POP3 Mail Client developed using Java
 
-#License
+# License
 
 This software is licensed under [MIT][mit]
 
