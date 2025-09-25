@@ -1,6 +1,12 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/junian/commons-media/refs/heads/master/svg/java-logo.svg" height="128px" />
+
 # JTR Mail Client
 
 A simple POP3 Mail Client developed using Java
+
+</div>
 
 ![JTR Mail Client][jtr-01]
 
