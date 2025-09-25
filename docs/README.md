@@ -11,6 +11,7 @@ A collection of simple Java Apps
 ## Content
 
 - [Simple POP3 Mail Client](./simple-mail-client/)
+- [Math Notation Converter: Infix, Postfix, Prefix](./infix-postfix-prefix/)
 
 # License
 
